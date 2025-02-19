@@ -5,7 +5,7 @@ import Git from "./git.svg"
 import Github from "./github.svg"
 import Html from "./html5.svg"
 import JavaScript from "./javascript.svg"
-import MongoDB from "./mongoDB.svg"
+import MongoDB from "./mongodb.svg"
 import Mysql from "./mysql.svg"
 import Nodejs from "./nodejs.svg"
 import postman from "./postman.svg"
@@ -14,7 +14,7 @@ import Shadcn from "./shadcn.svg"
 import TailwindCSS from "./tailwindcss.svg"
 import Vercel from "./varcel.svg"
 import Redux from "./redux.svg"
-import RestAPI from "./restAPI.png"
+import RestAPI from "./restapi.png"
 
 
 export const assets = {
